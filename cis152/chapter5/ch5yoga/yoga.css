@@ -1,0 +1,37 @@
+body {
+  background-color: #f5f5f5; /* bgc#F5F5F5 */
+  color: #40407a; /* c#40407A */
+  font-family: Verdana, Arial, sans-serif;
+}
+header {
+  background-color: #9cbfc2; /* bgc#80CBC4 */
+  color: #40407a; /* c#40407A */
+  background-image: url(yoga_images/lilyheader.jpg); /* bgi */
+  background-position: right; /* bgdp */
+  background-repeat: no-repeat; /* bgr */
+}
+
+nav {
+  font-weight: bold; /* fwb */
+  text-align: center;
+}
+
+nav a {
+  text-decoration: none; /* txd */
+}
+
+h1 {
+  line-height: 400%; /* lh400% */
+  text-indent: 1em; /* txi */
+}
+footer {
+  background-color: #9cbfc2; /* 80CBC4 */
+  font-size: 75%; /* fz75% */
+  font-style: italic; /* fsi */
+  text-align: center; /* txa */
+}
+
+li,
+dd {
+  font-size: 90%; /*fz90% */
+}
